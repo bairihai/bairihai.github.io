@@ -1,0 +1,111 @@
+body {
+  font-family: "Roboto", "Segoe UI", "Microsoft YaHei UI", "Microsoft YaHei UI", serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column; }
+
+a {
+  color: #93b658; }
+
+main {
+  margin-top: 4rem;
+  flex: 1 0 auto; }
+
+nav {
+  background-color: white; }
+
+#logo-container {
+  -webkit-text-fill-color: #93b658; }
+
+#logo-container .brand-logo, nav ul a, .button-collapse {
+  color: #608b70; }
+
+.header-fixed {
+  position: fixed;
+  z-index: 10;
+  right: 0;
+  left: 0;
+  top: 0; }
+
+.headroom {
+  will-change: transform;
+  transition: transform 200ms linear; }
+
+.headroom--pinned {
+  transform: translateY(0%); }
+
+.headroom--unpinned {
+  transform: translateY(-105%); }
+
+.parallax-container .container {
+  margin-top: 6rem; }
+.parallax-container .avatar {
+  width: 150px;
+  margin: auto; }
+  @media only screen and (min-width: 455px) and (max-width: 636px) {
+    .parallax-container .avatar {
+      width: 33%; } }
+  @media only screen and (min-width: 636px) {
+    .parallax-container .avatar {
+      width: 200px; } }
+.parallax-container .parallax img {
+  width: 100%;
+  height: auto; }
+
+.pagination li.active {
+  background-color: #608b70; }
+
+.card .header a {
+  color: #608b70; }
+
+footer.page-footer {
+  background-color: #93b658; }
+
+footer a {
+  color: whitesmoke; }
+
+footer .filing {
+  text-align: center;
+  color: #fff3e0;
+  line-height: 3rem; }
+
+#archive {
+  margin-top: 3rem; }
+  #archive .posts {
+    margin-top: 2rem; }
+  #archive .archive-item {
+    padding-bottom: 1rem; }
+
+#tag {
+  margin-top: 5rem; }
+
+.pagination li.active a {
+  color: #fff; }
+
+.pagination li a {
+  color: #444;
+  display: inline-block;
+  font-size: 1.2rem;
+  padding: 0 10px;
+  line-height: 30px; }
+
+.pagination {
+  margin-bottom: 2rem; }
+  .pagination .page-number.current {
+    color: #fff;
+    background: #93b658;
+    border-top-color: #ccc; }
+  .pagination .prev, .pagination .next, .pagination .page-number {
+    transition-property: border-color;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s; }
+  .pagination .page-number-basic, .pagination .prev, .pagination .next, .pagination .page-number, .pagination .space {
+    display: inline-block;
+    position: relative;
+    top: -1px;
+    margin: 0 10px;
+    padding: 0 10px;
+    line-height: 30px; }
+
+/*# sourceMappingURL=pteris.css.map */

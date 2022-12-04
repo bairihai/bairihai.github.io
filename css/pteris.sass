@@ -1,0 +1,120 @@
+$color-primary: #93b658
+$color-secondary: #608b70
+$color-accent: #53c34a
+
+body
+  font-family: "Roboto", "Segoe UI", "Microsoft YaHei UI", "Microsoft YaHei UI", serif
+
+  display: flex
+  min-height: 100vh
+  flex-direction: column
+
+a
+  color: $color-primary
+
+main
+  margin-top: 4rem
+  flex: 1 0 auto
+
+
+nav
+  background-color: white
+
+#logo-container
+  -webkit-text-fill-color: $color-primary
+
+#logo-container .brand-logo, nav ul a, .button-collapse
+  color: $color-secondary
+
+.header-fixed
+  position: fixed
+  z-index: 10
+  right: 0
+  left: 0
+  top: 0
+
+.headroom
+  will-change: transform
+  transition: transform 200ms linear
+
+.headroom--pinned
+  transform: translateY(0%)
+
+.headroom--unpinned
+  transform: translateY(-105%)
+
+.parallax-container
+  .container
+    margin-top: 6rem
+  .avatar
+    width: 150px
+    @media only screen and (min-width: 455px) and (max-width: 636px)
+      width: 33%
+    @media only screen and (min-width: 636px)
+      width: 200px
+    margin: auto
+  .parallax
+    img
+      width: 100%
+      height: auto
+
+.pagination li.active
+  background-color: $color-secondary
+
+
+.card .header a
+  color: $color-secondary
+
+footer.page-footer
+  background-color: $color-primary
+
+footer a
+  color: whitesmoke
+
+footer .filing
+  text-align: center
+  color: #fff3e0
+  line-height: 3rem
+
+
+#archive
+  margin-top: 3rem
+  .posts
+    margin-top: 2rem
+
+  .archive-item
+    padding-bottom: 1rem
+
+#tag
+  margin-top: 5rem
+
+.pagination li.active a
+  color: #fff
+
+.pagination li a
+  color: #444
+  display: inline-block
+  font-size: 1.2rem
+  padding: 0 10px
+  line-height: 30px
+
+.pagination
+  margin-bottom: 2rem
+  .page-number.current
+    color: #fff
+    background: $color-primary
+    border-top-color: #ccc
+
+  .prev, .next, .page-number
+    transition-property: border-color
+    transition-duration: 0.2s
+    transition-timing-function: ease-in-out
+    transition-delay: 0s
+
+  .page-number-basic, .prev, .next, .page-number, .space
+    display: inline-block
+    position: relative
+    top: -1px
+    margin: 0 10px
+    padding: 0 10px
+    line-height: 30px
