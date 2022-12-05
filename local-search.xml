@@ -5,25 +5,6 @@
   
   <entry>
     <title>test</title>
-    <link href="/2022/12/04/draft/"/>
-    <url>/2022/12/04/draft/</url>
-    
-    <content type="html"><![CDATA[<p>test</p><p><span class="math display">\[i \hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi\]</span></p><p>其中，<span class="math inline">\(i\)</span> 是虚数单位，<spanclass="math inline">\(\hbar\)</span> 是普朗克常数，<spanclass="math inline">\(\psi\)</span> 是粒子的波函数，<spanclass="math inline">\(\hat{H}\)</span>是粒子的哈密顿算符，表示粒子的能量和动量。</p><p>薛定谔方程的解可以用来描述粒子的动态行为，并且可以用来预测粒子的可能态。虽然薛定谔方程本身不能直接求解，但它为量子物理学的发展提供了重要的理论基础。在当今物理学研究中，薛定谔方程仍然是一个重要的工具。</p>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>薛定谔方程 测试</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>test</title>
     <link href="/2022/12/04/test/"/>
     <url>/2022/12/04/test/</url>
     
@@ -34,6 +15,25 @@
     <tags>
       
       <tag>薛定谔方程&amp;&amp;测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>test</title>
+    <link href="/2022/12/04/draft/"/>
+    <url>/2022/12/04/draft/</url>
+    
+    <content type="html"><![CDATA[<p>test</p><p><span class="math display">\[i \hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi\]</span></p><p>其中，<span class="math inline">\(i\)</span> 是虚数单位，<spanclass="math inline">\(\hbar\)</span> 是普朗克常数，<spanclass="math inline">\(\psi\)</span> 是粒子的波函数，<spanclass="math inline">\(\hat{H}\)</span>是粒子的哈密顿算符，表示粒子的能量和动量。</p><p>薛定谔方程的解可以用来描述粒子的动态行为，并且可以用来预测粒子的可能态。虽然薛定谔方程本身不能直接求解，但它为量子物理学的发展提供了重要的理论基础。在当今物理学研究中，薛定谔方程仍然是一个重要的工具。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>薛定谔方程 测试</tag>
       
     </tags>
     
