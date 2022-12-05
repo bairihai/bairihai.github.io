@@ -8,13 +8,13 @@
     <link href="/2022/12/04/draft/"/>
     <url>/2022/12/04/draft/</url>
     
-    <content type="html"><![CDATA[<p>test</p><script type="math/tex; mode=display">i \hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi</script><p>其中，$i$ 是虚数单位，$\hbar$ 是普朗克常数，$\psi$ 是粒子的波函数，$\hat{H}$ 是粒子的哈密顿算符，表示粒子的能量和动量。</p><p>薛定谔方程的解可以用来描述粒子的动态行为，并且可以用来预测粒子的可能态。虽然薛定谔方程本身不能直接求解，但它为量子物理学的发展提供了重要的理论基础。在当今物理学研究中，薛定谔方程仍然是一个重要的工具。</p>]]></content>
+    <content type="html"><![CDATA[<p>test</p><p><span class="math display">\[i \hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi\]</span></p><p>其中，<span class="math inline">\(i\)</span> 是虚数单位，<spanclass="math inline">\(\hbar\)</span> 是普朗克常数，<spanclass="math inline">\(\psi\)</span> 是粒子的波函数，<spanclass="math inline">\(\hat{H}\)</span>是粒子的哈密顿算符，表示粒子的能量和动量。</p><p>薛定谔方程的解可以用来描述粒子的动态行为，并且可以用来预测粒子的可能态。虽然薛定谔方程本身不能直接求解，但它为量子物理学的发展提供了重要的理论基础。在当今物理学研究中，薛定谔方程仍然是一个重要的工具。</p>]]></content>
     
     
     
     <tags>
       
-      <tag>薛定谔方程\测试、记忆</tag>
+      <tag>薛定谔方程 测试</tag>
       
     </tags>
     
@@ -27,13 +27,13 @@
     <link href="/2022/12/04/test/"/>
     <url>/2022/12/04/test/</url>
     
-    <content type="html"><![CDATA[<script type="math/tex; mode=display">i \hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi</script><p>其中，$i$ 是虚数单位，$\hbar$ 是普朗克常数，$\psi$ 是粒子的波函数，$\hat{H}$ 是粒子的哈密顿算符，表示粒子的能量和动量。</p><p>薛定谔方程的解可以用来描述粒子的动态行为，并且可以用来预测粒子的可能态。虽然薛定谔方程本身不能直接求解，但它为量子物理学的发展提供了重要的理论基础。在当今物理学研究中，薛定谔方程仍然是一个重要的工具。</p>]]></content>
+    <content type="html"><![CDATA[<p><span class="math display">\[i \hbar \frac{\partial \psi}{\partial t} = \hat{H} \psi\]</span></p><p>其中，<span class="math inline">\(i\)</span> 是虚数单位，<spanclass="math inline">\(\hbar\)</span> 是普朗克常数，<spanclass="math inline">\(\psi\)</span> 是粒子的波函数，<spanclass="math inline">\(\hat{H}\)</span>是粒子的哈密顿算符，表示粒子的能量和动量。</p><p>薛定谔方程的解可以用来描述粒子的动态行为，并且可以用来预测粒子的可能态。虽然薛定谔方程本身不能直接求解，但它为量子物理学的发展提供了重要的理论基础。在当今物理学研究中，薛定谔方程仍然是一个重要的工具。</p>]]></content>
     
     
     
     <tags>
       
-      <tag>薛定谔方程，测试</tag>
+      <tag>薛定谔方程&amp;&amp;测试</tag>
       
     </tags>
     
@@ -59,7 +59,7 @@
     <link href="/2022/12/02/hello-world/"/>
     <url>/2022/12/02/hello-world/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <ahref="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <ahref="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
